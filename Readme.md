@@ -1,6 +1,6 @@
-# Calendar App
+# Task Manager Website
 
-The Calendar App is a web application that allows users to view and manage tasks within a calendar interface. It provides a convenient way to track and organize tasks on specific dates.
+The Task Manager is a web application that allows users to view and manage tasks within a calendar interface. It provides a convenient way to track and organize tasks on specific dates.
 
 ## Features
 
